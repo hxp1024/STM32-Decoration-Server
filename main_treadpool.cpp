@@ -13,7 +13,7 @@
 #include <condition_variable>
 
 // 最大线程数
-#define MAX_THREADS 5
+#define MAX_THREADS 2
 #define PORT 56765
 
 // 任务队列
